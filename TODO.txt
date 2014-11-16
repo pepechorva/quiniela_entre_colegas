@@ -1,0 +1,4 @@
+introducir el numero y nombre de los jugadores.
+introducir el numero de dobles y triples y que automatice la tarea (están introducidos a mano)
+
+
